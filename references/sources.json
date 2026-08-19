@@ -1,0 +1,23 @@
+[
+  {
+    "id": "SRC-001",
+    "name": "Enso Agentic Growth Lab",
+    "organization": "Enso",
+    "url": "https://www.enso.bot/research",
+    "endpoints": [
+      "https://www.enso.bot/research",
+      "https://www.enso.bot/llms-full.txt",
+      "https://www.enso.bot/blog"
+    ],
+    "focus_areas": [
+      "Platform distribution experiments",
+      "Autonomous SDR workflows",
+      "GEO and answer engine citation engineering",
+      "Agent package and skill registry distribution",
+      "Algorithmic social feed distribution"
+    ],
+    "status": "active",
+    "date_added": "2026-08-19",
+    "last_scanned": "2026-08-19"
+  }
+]
