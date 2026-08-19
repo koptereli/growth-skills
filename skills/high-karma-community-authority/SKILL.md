@@ -3,9 +3,17 @@ name: high-karma-community-authority
 description: Establish high-signal domain authority in technical communities and developer subreddits through in-depth, zero-promotional problem solving and architectural guidance.
 version: 1.0.0
 category: Technical Communities & Reputation
+reference: Enso Agentic Growth Lab (EXP-008: Non-Promotional Community Infiltration & Karma)
 ---
 
 # High-Karma Community Authority & Technical Problem Solving
+
+## Research Reference & Credit
+- **Influencing Research:** [Enso Agentic Growth Lab](https://www.enso.bot/research)
+- **Experiment Reference:** `EXP-008` (*REDDIT · karma / One account, eleven subreddits, zero promotional comments: 270 karma & high qualified signups*)
+- **Domain:** Developer Community Engagement & Inbound Authority
+
+---
 
 ## Overview
 Technical communities (such as Reddit engineering subreddits, Discord server channels, Discourse forums, and Stack Overflow) aggressively filter out self-promotional content. However, they strongly reward practitioners who provide exhaustive, production-grade solutions to complex architectural challenges.

@@ -14,21 +14,21 @@ This repository codifies verified, field-tested methodologies across major algor
 
 ## 📑 Core Growth Playbooks & Skills
 
-| Skill | Target Surface | Focus & Growth Objective | Status |
-|---|---|---|---|
-| **[github-curated-index](skills/github-curated-index/SKILL.md)** | GitHub / Developer SERPs | Category-defining curated index & awesome-list methodology to capture organic developer discoverability, inbound stars, and AI crawler indexing. | Production-Ready |
-| **[agent-skill-distribution](skills/agent-skill-distribution/SKILL.md)** | Agent Registries (MCP, ClawHub) | Packaging and publishing modular tool definitions and MCP servers into decentralized agent ecosystems. | Production-Ready |
-| **[early-window-linkedin-velocity](skills/early-window-linkedin-velocity/SKILL.md)** | Professional Social / Feeds | Algorithmic 60-minute post distribution window optimization, first-comment technical context expansion, and engagement acceleration. | Production-Ready |
-| **[high-karma-community-authority](skills/high-karma-community-authority/SKILL.md)** | Technical Forums (Reddit, Discord) | High-signal, zero-promotional problem solving across engineering subreddits and forums to build authentic domain authority. | Production-Ready |
-| **[authority-citation-engineering](skills/authority-citation-engineering/SKILL.md)** | GEO / AI Answer Engines | Generative Engine Optimization (GEO): Engineering verifiable technical benchmarks and peer references to secure citations in LLM answer engines (Perplexity, ChatGPT, Gemini, Google AI Overviews). | Production-Ready |
-| **[multichannel-sdr-orchestration](skills/multichannel-sdr-orchestration/SKILL.md)** | Outbound Pipeline | Signal-triggered, multi-touch outbound orchestration across email and professional channels. | Production-Ready |
+| Skill | Target Surface | Focus & Growth Objective | Research Reference & Credit | Status |
+|---|---|---|---|---|
+| **[github-curated-index](skills/github-curated-index/SKILL.md)** | GitHub / Developer SERPs | Category-defining curated index & awesome-list methodology to capture organic developer discoverability and inbound stars. | [Enso Agentic Growth Lab](https://www.enso.bot/research) (`EXP-001`) | Production-Ready |
+| **[agent-skill-distribution](skills/agent-skill-distribution/SKILL.md)** | Agent Registries (MCP, ClawHub) | Packaging and publishing modular tool definitions and MCP servers into decentralized agent ecosystems. | [Enso Agentic Growth Lab](https://www.enso.bot/research) (`EXP-004`) | Production-Ready |
+| **[early-window-linkedin-velocity](skills/early-window-linkedin-velocity/SKILL.md)** | Professional Social / Feeds | Algorithmic 60-minute post distribution window optimization, first-comment context expansion, and engagement acceleration. | [Enso Agentic Growth Lab](https://www.enso.bot/research) (`EXP-006`) | Production-Ready |
+| **[high-karma-community-authority](skills/high-karma-community-authority/SKILL.md)** | Technical Forums (Reddit, Discord) | High-signal, zero-promotional problem solving across engineering subreddits and forums to build authentic domain authority. | [Enso Agentic Growth Lab](https://www.enso.bot/research) (`EXP-008`) | Production-Ready |
+| **[authority-citation-engineering](skills/authority-citation-engineering/SKILL.md)** | GEO / AI Answer Engines | Generative Engine Optimization (GEO): Engineering verifiable technical benchmarks to secure citations in LLM answer engines. | [Enso Agentic Growth Lab](https://www.enso.bot/research) (`EXP-009`) | Production-Ready |
+| **[multichannel-sdr-orchestration](skills/multichannel-sdr-orchestration/SKILL.md)** | Outbound Pipeline | Signal-triggered, multi-touch outbound orchestration across email and professional channels. | [Enso Agentic Growth Lab](https://www.enso.bot/research) (`EXP-003`) | Production-Ready |
 
 ---
 
 ## 🔬 Research & Empirical Sourcing
 
 The methodologies in this repository are synthesized from leading empirical research labs, live platform distribution experiments, and developer ecosystem field reports, including:
-- **Enso Agentic Growth Lab** research datasets and platform experiment ledgers.
+- **[Enso Agentic Growth Lab](https://www.enso.bot/research)** research datasets and platform experiment ledgers (`EXP-001` through `EXP-009`).
 - **Open-source agent ecosystems** (OpenClaw, Model Context Protocol / MCP, LangChain, Hermes).
 - **Independent Generative Engine Optimization (GEO) & SERP studies**.
 - **Community-contributed distribution experiments**.

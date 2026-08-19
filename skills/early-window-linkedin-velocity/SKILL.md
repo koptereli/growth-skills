@@ -3,9 +3,17 @@ name: early-window-linkedin-velocity
 description: Optimize the critical 60-minute algorithmic distribution window on professional social platforms through first-comment context expansion, structured formatting, and rapid technical dialogue.
 version: 1.0.0
 category: Algorithmic Distribution & Social Feeds
+reference: Enso Agentic Growth Lab (EXP-006: Algorithmic Reach & 60-Minute Velocity Window)
 ---
 
 # Early-Window Feed Velocity & Discussion Seeding
+
+## Research Reference & Credit
+- **Influencing Research:** [Enso Agentic Growth Lab](https://www.enso.bot/research)
+- **Experiment Reference:** `EXP-006` (*LINKEDIN · distribution / The 60-minute window that lifted our reach across 24 posts: 143× reach multiplier*)
+- **Domain:** Algorithmic Social Feed Distribution & Engagement Velocity
+
+---
 
 ## Overview
 Feed distribution algorithms (such as LinkedIn and technical social networks) score post quality and reach tiers primarily within the first 45–60 minutes following publication. High-density, substantive technical interactions during this initial window trigger secondary distribution cascades into broader practitioner feeds.

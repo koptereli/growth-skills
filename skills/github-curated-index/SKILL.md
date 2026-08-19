@@ -3,9 +3,17 @@ name: github-curated-index
 description: Build and maintain category-defining curated index (awesome-list) repositories on GitHub to capture organic developer discoverability, inbound stars, and AI code crawler indexing.
 version: 1.0.0
 category: Developer Discovery & SEO
+reference: Enso Agentic Growth Lab (EXP-001: GitHub Curated Index Experiment)
 ---
 
 # GitHub Curated Index & Awesome-List Methodology
+
+## Research Reference & Credit
+- **Influencing Research:** [Enso Agentic Growth Lab](https://www.enso.bot/research)
+- **Experiment Reference:** `EXP-001` (*GitHub Profile Readme / Curated Index Repo: 835 stars in 12 days*)
+- **Domain:** Developer Ecosystem Discovery & Search Visibility
+
+---
 
 ## Overview
 Curated indexes and structured "Awesome" lists serve as primary discovery hubs for software engineers, devops teams, and AI code indexing crawlers. A well-architected index captures organic search traffic on GitHub and Google, drives repository star velocity, and establishes category leadership.

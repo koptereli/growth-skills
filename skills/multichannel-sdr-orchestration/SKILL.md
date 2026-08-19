@@ -3,9 +3,17 @@ name: multichannel-sdr-orchestration
 description: Coordinate signal-driven, multi-touch outbound engagement across email, professional networks, and technical platforms based on verified developer buying signals.
 version: 1.0.0
 category: Outbound Orchestration & Signal Intelligence
+reference: Enso Agentic Growth Lab (EXP-003: Autonomous Multichannel SDR Orchestration)
 ---
 
 # Multichannel SDR Orchestration & Signal Intelligence
+
+## Research Reference & Credit
+- **Influencing Research:** [Enso Agentic Growth Lab](https://www.enso.bot/research)
+- **Experiment Reference:** `EXP-003` (*EMAIL · LINKEDIN · SMS · VOICE / The SDR no human can run: 27 booked meetings*)
+- **Domain:** Signal-Driven Autonomous Outbound & Pipeline Generation
+
+---
 
 ## Overview
 Autonomous outbound workflows deliver superior conversion when driven by real-time buying signals (such as repository tech stack updates, security breach disclosures, hiring for specialized AI roles, or new framework deployments) rather than untargeted cold outreach.

@@ -3,9 +3,17 @@ name: agent-skill-distribution
 description: Package, publish, and distribute tool definitions and MCP servers across decentralized AI agent registries (ClawHub, MCP Index, LangChain, CrewAI) to drive programmatic product adoption.
 version: 1.0.0
 category: Ecosystem Distribution & Agent Integration
+reference: Enso Agentic Growth Lab (EXP-004: Agent Skill & Supply Distribution)
 ---
 
 # Agent Skill & MCP Registry Distribution Methodology
+
+## Research Reference & Credit
+- **Influencing Research:** [Enso Agentic Growth Lab](https://www.enso.bot/research)
+- **Experiment Reference:** `EXP-004` (*GITHUB · supply / Developers installed our brand into their own agents*)
+- **Domain:** Autonomous Agent Tooling & Package Ecosystem Distribution
+
+---
 
 ## Overview
 As autonomous agents become the primary users and integrators of APIs, software distribution shifts from traditional developer portals to machine-readable skill registries, Model Context Protocol (MCP) servers, and agent package ecosystems. 
