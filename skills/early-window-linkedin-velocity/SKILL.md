@@ -1,33 +1,30 @@
 ---
 name: early-window-linkedin-velocity
-description: Maximize LinkedIn reach and algorithmic distribution by coordinating the initial 60-minute engagement window, first-comment discussion seeding, and high-velocity practitioner interaction.
+description: Optimize the critical 60-minute algorithmic distribution window on professional social platforms through first-comment context expansion, structured formatting, and rapid technical dialogue.
 version: 1.0.0
-author: Eli Kopter (adapted from enso.bot EXP-006)
-status: staged-approval-required
+category: Algorithmic Distribution & Social Feeds
 ---
 
-# Early-Window LinkedIn Velocity Growth Skill
+# Early-Window Feed Velocity & Discussion Seeding
 
-## Origin & Context
-Adapted from enso.bot research record **EXP-006** (*LINKEDIN · distribution / The 60-minute window that lifted our reach across 24 posts: 143× reach multiplier*).
+## Overview
+Feed distribution algorithms (such as LinkedIn and technical social networks) score post quality and reach tiers primarily within the first 45–60 minutes following publication. High-density, substantive technical interactions during this initial window trigger secondary distribution cascades into broader practitioner feeds.
 
-## Objective
-Structure and coordinate the first 60 minutes after a technical or strategic LinkedIn post goes live to trigger LinkedIn's distribution algorithm and amplify post impressions into practitioner feeds.
+## Strategic Objectives
+- Maximize algorithmic reach and impression multipliers on technical posts.
+- Maintain high editorial integrity without artificial engagement pods or low-value commentary.
+- Convert feed impressions into active repository visits and technical discussion.
 
-## Methodology & Execution Flow
+## Execution Framework
 
-### 1. The 60-Minute Velocity Rule
-- The LinkedIn feed algorithm determines post longevity and distribution tier based on engagement density within the first 45–60 minutes.
-- Immediate meaningful comments and reposts with insights signal high editorial value.
+### 1. The 60-Minute Velocity Window
+- Track post performance and engagement velocity during the initial hour.
+- Ensure the post is published during optimal practitioner reading windows (e.g. 08:00–10:00 local time on business days).
 
-### 2. First-Comment Value Expansion
-- Post the core narrative cleanly in the main body (using verified HTML paragraph injection to avoid truncation).
-- Immediately add a pinned/first comment expanding the insight, offering a direct link to the GitHub repository, or asking a specific, non-trivial engineering question.
+### 2. First-Comment Value Extension
+- Format the main post cleanly to prevent text truncation (using native paragraph blocks).
+- Immediately attach a structured first comment expanding on technical implementation details, providing direct links to open-source repositories, or presenting an architectural question for community feedback.
 
-### 3. Rapid Practitioner Dialogue
-- Respond to every early comment within 10–15 minutes with thoughtful technical counterpoints or additional data.
-- Avoid generic acknowledgments; every reply should be a micro-post in itself.
-
-## Rules & Constraints
-- **Zero Podding / Artificial Engagement:** No bot rings or generic "Great post!" comments. Engagement must be 100% substantive technical discussion.
-- **Approval Gate:** Post schedules and any automated engagement workflows require Ziv's explicit authorization.
+### 3. Rapid Technical Dialogue
+- Engage directly with all early commenter inquiries within 10–15 minutes.
+- Treat every comment response as a self-contained micro-insight providing additional data, benchmarks, or architectural context.

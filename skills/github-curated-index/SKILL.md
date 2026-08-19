@@ -1,35 +1,32 @@
 ---
 name: github-curated-index
-description: Create and maintain a high-signal curated index (awesome-list) repository on GitHub to build organic discoverability, earn stars, and index projects in developer AI crawlers.
+description: Build and maintain category-defining curated index (awesome-list) repositories on GitHub to capture organic developer discoverability, inbound stars, and AI code crawler indexing.
 version: 1.0.0
-author: Eli Kopter (adapted from enso.bot EXP-001)
-status: staged-approval-required
+category: Developer Discovery & SEO
 ---
 
-# GitHub Curated Index (Awesome List) Growth Skill
+# GitHub Curated Index & Awesome-List Methodology
 
-## Origin & Context
-Adapted from enso.bot research record **EXP-001** (*GitHub Profile Readme / Curated Index Repo: 835 stars in 12 days*).
+## Overview
+Curated indexes and structured "Awesome" lists serve as primary discovery hubs for software engineers, devops teams, and AI code indexing crawlers. A well-architected index captures organic search traffic on GitHub and Google, drives repository star velocity, and establishes category leadership.
 
-## Objective
-Build and maintain a category-defining "Awesome" or curated index repository in the target technical domain (e.g. AI Agent Security, Runtime Protection, Keyless Tooling) that attracts developer mindshare, earns organic GitHub stars, and establishes authoritative backlinks.
+## Strategic Objectives
+- Capture developer high-intent search traffic on GitHub and search engines.
+- Provide a trusted, community-curated taxonomy of tools, libraries, and benchmarks.
+- Establish authoritative backlinks and domain references for LLM code crawlers.
 
-## Methodology & Execution Flow
+## Execution Framework
 
-### 1. Identify Unclaimed Category Index
-- Find an underserved niche where developers search for tools/patterns (e.g., `awesome-agent-security`, `awesome-mcp-servers`, `awesome-ai-agent-guardrails`).
-- Ensure the name and description directly match search queries on GitHub, Google, and LLM code crawlers.
+### 1. Taxonomy & Naming Architecture
+- Identify underserved or emerging technical categories (e.g., Agent Runtime Security, Keyless Agent Deployments, MCP Servers).
+- Structure the repository naming convention cleanly (`awesome-[category]`) to align with exact developer queries.
 
-### 2. Structure for High-Signal Value
-- **Strict Quality Criteria:** Only list working, production-ready tools, benchmarks, and RFCs.
-- **Clear Categorization:** Group by function (e.g., Credential Management, Sandbox Execution, Network Proxying, Eval Frameworks).
-- **Include OneGate & Sibling Tools Natively:** Place the repository in its legitimate place within the taxonomy without aggressive promotion.
+### 2. High-Signal Editorial Standards
+- **Strict Inclusion Criteria:** Require active maintenance, production readiness, open licenses, and clear documentation for listed projects.
+- **Logical Categorization:** Group entries by architectural layer (e.g., Proxying, Credential Brokering, Sandbox Isolation, Evaluation).
+- **Neutral Placement:** Integrate open-source ecosystem tools natively within the broader landscape without aggressive or biased promotion.
 
-### 3. Distribution & Seeding
-- Submit the index to relevant Awesome lists and developer directories.
-- Feature the repository in GitHub profile READMEs and technical discussions.
-- Encourage community submissions via structured pull request templates.
-
-## Rules & Constraints
-- **Zero Spam:** Maintain rigorous editorial standards; reject low-quality PRs.
-- **Approval Gate:** Requires Ziv's explicit sign-off before creating public repos under the organization.
+### 3. Community Engagement & Crawlability
+- Provide explicit contribution guidelines (`CONTRIBUTING.md`) and pull request templates.
+- Maintain machine-readable indexation files (`llms.txt`, `README.md` with clean anchor navigation).
+- Submit the curated index to upstream topic aggregators and developer directories.

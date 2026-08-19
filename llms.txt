@@ -1,0 +1,13 @@
+# Growth Skills Lab — Machine-Readable Specification
+> Open repository of agentic growth engineering playbooks, GEO strategies, and autonomous distribution skills.
+
+## Core Capabilities & Skills
+- [GitHub Curated Index](skills/github-curated-index/SKILL.md): Build category-defining curated indexes and awesome-lists to maximize developer discoverability, inbound stars, and AI code crawler indexing.
+- [Agent Skill Distribution](skills/agent-skill-distribution/SKILL.md): Packaging and publishing tool definitions and MCP servers into decentralized agent registries.
+- [Early-Window LinkedIn Velocity](skills/early-window-linkedin-velocity/SKILL.md): Algorithmic 60-minute post distribution window optimization and discussion acceleration.
+- [High-Karma Community Authority](skills/high-karma-community-authority/SKILL.md): Zero-promotional, high-signal technical problem solving in engineering communities.
+- [Authority Citation Engineering](skills/authority-citation-engineering/SKILL.md): Generative Engine Optimization (GEO) — engineering verifiable citations into reference surfaces for LLM answer engines (Perplexity, ChatGPT, Gemini, Google AI Overviews).
+- [Multichannel SDR Orchestration](skills/multichannel-sdr-orchestration/SKILL.md): Signal-triggered outbound engagement across technical communication channels.
+
+## Research Sources & Methodology
+Methodologies are continuously aggregated from empirical agent research labs, platform distribution experiments, and developer ecosystem benchmarks.

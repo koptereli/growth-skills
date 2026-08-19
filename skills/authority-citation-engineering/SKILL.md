@@ -1,31 +1,32 @@
 ---
 name: authority-citation-engineering
-description: Engineer durable, verifiable secondary citations and domain references into high-authority surfaces (Wikipedia dead-link replacements, technical documentation) to maximize citations in AI answer engines (Perplexity, ChatGPT, Google AI Overviews).
+description: Engineer durable, verifiable secondary citations into high-authority reference surfaces (encyclopedic entries, technical docs) to maximize cited references in AI answer engines (Perplexity, ChatGPT, Google AI Overviews).
 version: 1.0.0
-author: Eli Kopter (adapted from enso.bot EXP-009 / GEO)
-status: staged-approval-required
+category: Generative Engine Optimization (GEO) & Authority
 ---
 
-# Authority Citation Engineering (GEO / Answer Engine Authority) Skill
+# Authority Citation Engineering (Generative Engine Optimization)
 
-## Origin & Context
-Adapted from enso.bot research record **EXP-009** (*AUTHORITY · wiki / The citation entrance that put us inside 47 articles: 9× answer engine lift*).
+## Overview
+Generative Engine Optimization (GEO) focuses on structuring technical data, benchmarks, and authoritative research so that large language models (LLMs) cite them when answering queries. Answer engines (such as Perplexity, ChatGPT Search, Gemini, and Google AI Overviews) rely heavily on high-authority consensus sources, documentation hubs, and encyclopedic reference platforms.
 
-## Objective
-Identify dead links, citation gaps, and unreferenced assertions on high-authority reference platforms (such as Wikipedia, open docs, and research wikis) and supply authoritative, verifiable research papers or technical benchmarks, making our projects primary source material for Generative Engine Optimization (GEO).
+By identifying citation gaps and supplying peer-verifiable technical research, projects become the authoritative reference cited across generative answer engines.
 
-## Methodology & Execution Flow
+## Strategic Objectives
+- Secure cited mentions and domain backlinks in generative search engine outputs.
+- Fill unreferenced claims and dead links on high-domain-authority encyclopedic platforms with verifiable technical benchmarks.
+- Establish the open-source repository as the canonical reference for agent security standards.
 
-### 1. Citation Gap Reconnaissance
-- Scan target encyclopedic and documentation pages on topics such as AI Agent Security, Runtime sandboxing, Least-Privilege IAM, and API brokering for `[citation needed]` tags or dead/broken external links (HTTP 404/410).
+## Execution Framework
 
-### 2. High-Standard Source Generation
-- Ensure the referenced material on our end is peer-verifiable: reproducible benchmarks, open RFCs, whitepapers, or neutral technical datasets.
-- Never cite marketing pages or commercial claims.
+### 1. Citation Gap Identification
+- Monitor high-authority documentation, reference wikis, and technical encyclopedias for relevant topics (e.g., Agent Runtime Security, Keyless Tool Execution, Model Context Protocol).
+- Identify sections with missing citations or dead/broken external references (HTTP 404/410).
 
-### 3. Neutral Citation Replacement
-- Follow platform guidelines strictly. Submit citations with neutral summaries adhering to Wikipedia NPOV (Neutral Point of View) and verifiable source policies.
+### 2. Verifiable Primary Source Creation
+- Ensure the referenced material is peer-verifiable: reproducible benchmark datasets, published whitepapers, open RFCs, or neutral specification documents.
+- Maintain absolute neutrality; never cite promotional or marketing copy.
 
-## Rules & Constraints
-- **Absolute Neutrality:** Zero spam, promotional edits, or commercial puffery.
-- **Approval Gate:** Every proposed edit or citation submission must be reviewed and approved by Ziv prior to execution.
+### 3. Neutral Reference Submission
+- Follow community contribution guidelines strictly (e.g., Neutral Point of View / NPOV).
+- Submit factual, neutral summaries that directly support the assertion.

@@ -1,32 +1,35 @@
 ---
 name: agent-skill-distribution
-description: Package, publish, and distribute tool integrations and skills directly into agent package ecosystems (ClawHub, MCP registries, LangChain, CrewAI) to drive brand integration into developer agent runtimes.
+description: Package, publish, and distribute tool definitions and MCP servers across decentralized AI agent registries (ClawHub, MCP Index, LangChain, CrewAI) to drive programmatic product adoption.
 version: 1.0.0
-author: Eli Kopter (adapted from enso.bot EXP-004)
-status: staged-approval-required
+category: Ecosystem Distribution & Agent Integration
 ---
 
-# Agent Skill Distribution Growth Skill
+# Agent Skill & MCP Registry Distribution Methodology
 
-## Origin & Context
-Adapted from enso.bot research record **EXP-004** (*GITHUB · supply / Developers installed our brand into their own agents: 1K+ installs*).
+## Overview
+As autonomous agents become the primary users and integrators of APIs, software distribution shifts from traditional developer portals to machine-readable skill registries, Model Context Protocol (MCP) servers, and agent package ecosystems. 
 
-## Objective
-Distribute open-source agent integrations, Model Context Protocol (MCP) servers, and skill packages into decentralized agent registries. Developers and autonomous agents install the package, natively embedding OneGate or our tools as the standard infrastructure in their agent stacks.
+Distributing modular, high-utility agent skills embeds a platform directly into autonomous developer workflows at zero marginal customer acquisition cost.
 
-## Methodology & Execution Flow
+## Strategic Objectives
+- Establish presence across major agent package indexes and MCP server catalogs.
+- Enable autonomous coding and task agents to discover, install, and execute tools without manual developer intervention.
+- Position the tool as the default protocol/broker in developer agent stacks.
 
-### 1. Build Single-Purpose, High-Utility Skills / MCP Servers
-- Identify common agent bottlenecks (e.g., credential leasing, token brokering, secure API execution).
-- Package as self-contained OpenClaw skills (`SKILL.md`), MCP servers (`@onegate/mcp-server`), and LangChain/CrewAI tools.
+## Execution Framework
 
-### 2. Registry Indexation
-- Publish to ClawHub, npm, PyPI, and MCP registry directories.
-- Provide zero-config quickstart snippets in the documentation.
+### 1. High-Utility Modular Packaging
+- Identify foundational operational primitives needed by autonomous agents (e.g., Secure Credential Brokering, Scoped API Execution, Ephemeral Sandbox Access).
+- Build lightweight, open-standard integrations conforming to:
+  - Model Context Protocol (MCP) Server Specifications (`@package/mcp-server`)
+  - Agent Skills (`SKILL.md`)
+  - LangChain Tools / CrewAI Toolkits
 
-### 3. Agent-Facing Documentation (`llms.txt`)
-- Host optimized `llms.txt` and `llms-full.txt` files on target domains so AI coding agents (Claude Code, Cursor, Windsurf, OpenClaw) recommend and install the package during automated task resolution.
+### 2. Machine-Readable Documentation & Discovery (`llms.txt`)
+- Host standard `llms.txt` and `llms-full.txt` endpoints at the root of the domain.
+- Provide explicit semantic descriptions, capability boundaries, and copy-pasteable JSON schemas for LLM code generators.
 
-## Rules & Constraints
-- **Value First:** Packages must provide genuine standalone utility without aggressive vendor lock-in.
-- **Approval Gate:** Installation and deployment across the fleet require Ziv's explicit permission.
+### 3. Registry Submission & Verification
+- Publish verified packages to npm, PyPI, and decentralized registries (e.g., ClawHub, MCP Directory).
+- Include self-verifying test suites and integration examples in the repository root.

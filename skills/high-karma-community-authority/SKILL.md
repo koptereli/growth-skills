@@ -1,34 +1,32 @@
 ---
 name: high-karma-community-authority
-description: Build authentic authority and drive developer demand across technical communities (Reddit, Discord, Discourse, Slack) through high-signal, zero-promotional problem solving and deep technical answers.
+description: Establish high-signal domain authority in technical communities and developer subreddits through in-depth, zero-promotional problem solving and architectural guidance.
 version: 1.0.0
-author: Eli Kopter (adapted from enso.bot EXP-008)
-status: staged-approval-required
+category: Technical Communities & Reputation
 ---
 
-# High-Karma Community Authority Growth Skill
+# High-Karma Community Authority & Technical Problem Solving
 
-## Origin & Context
-Adapted from enso.bot research record **EXP-008** (*REDDIT · karma / One account, eleven subreddits, zero promotional comments: 270 karma & high qualified signups*).
+## Overview
+Technical communities (such as Reddit engineering subreddits, Discord server channels, Discourse forums, and Stack Overflow) aggressively filter out self-promotional content. However, they strongly reward practitioners who provide exhaustive, production-grade solutions to complex architectural challenges.
 
-## Objective
-Establish high-signal authority in targeted technical subreddits and developer communities (e.g. `r/LLMDevs`, `r/LocalLLaMA`, `r/cybersecurity`, `r/DevOps`) by answering complex architectural questions without promotional links, naturally turning community trust into inbound repo discovery.
+By contributing high-signal, zero-promotional technical answers, practitioners build authentic domain authority and earn organic profile views that convert into project discovery.
 
-## Methodology & Execution Flow
+## Strategic Objectives
+- Build durable technical credibility within specific developer ecosystems.
+- Solve real developer bottlenecks regarding agent runtime security, sandboxing, and credential isolation.
+- Generate organic, inbound repository traffic from developer profile curiosity.
 
-### 1. High-Value Signal Detection
-- Scan target subreddits and forums for questions regarding agent secrets management, `.env` file security, API credential leaking, and LLM sandbox isolation.
-- Filter for threads where developers are actively struggling with an architectural problem.
+## Execution Framework
+
+### 1. High-Intent Discussion Identification
+- Monitor target technical communities (e.g., `r/LLMDevs`, `r/LocalLLaMA`, `r/DevOps`, `r/cybersecurity`) for recurring failure modes, prompt injection vulnerabilities, or credential handling inquiries.
 
 ### 2. Zero-Promotional Problem Solving
-- Write comprehensive, production-grade technical answers directly in the thread.
-- Provide copy-pasteable code patterns, security trade-offs, and failure analysis.
-- **Never include unsolicited commercial links or hard calls-to-action.**
+- Write deep, production-ready technical responses explaining underlying mechanics, threat vectors, and architectural tradeoffs.
+- Provide clean, reproducible code patterns directly inside the forum.
+- **Strict Anti-Spam Policy:** Do not post unprompted marketing links, sales copy, or promotional calls to action.
 
-### 3. Organic Profile Discovery
-- Maintain clear technical credentials and project context in the user profile bio.
-- Let readers organically inspect the profile or discover the open-source repository from the author's reputation.
-
-## Rules & Constraints
-- **Absolute Non-Promotional Mandate:** Zero spam or link dumping.
-- **Approval Gate:** Requires Ziv's explicit approval before deploying any active monitoring or community response workflows across the fleet.
+### 3. Organic Profile Indexation
+- Ensure the author's public profile bio cleanly references the open-source repository and active technical initiatives.
+- Allow readers to naturally discover the repository through the author's documented domain expertise.
